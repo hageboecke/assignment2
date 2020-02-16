@@ -1,0 +1,29 @@
+h1, nav{
+  font-family: 'Varela', sans-serif; //font for headings and navbar
+}
+
+.bg{
+  background-color: #8D99AE;
+}
+
+.hd{
+  color: #2B2D42;
+}
+
+p{
+  font-family: 'Arvo', serif; //font for body
+}
+
+#canDo{
+  font-size: 6em;
+  font-family: 'Varela', sans-serif;
+  text-decoration-line: underline;
+  text-decoration-color: red;
+  text-decoration-style: dashed;
+  margin-bottom: 1em;
+}
+
+button{
+  width: 10em;
+  font-family: 'Varela', sans-serif;
+}
