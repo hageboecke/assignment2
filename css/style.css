@@ -2,6 +2,10 @@ h1, nav{
   font-family: 'Varela', sans-serif; //font for headings and navbar
 }
 
+.navbar{
+  margin-bottom: 4em;
+}
+
 .bg{
   background-color: #EDF2F4;
 }
@@ -14,17 +18,17 @@ p{
   font-family: 'Arvo', serif; //font for body
 }
 
-#canDo{
-  font-size: 6em;
-  font-family: 'Varela', sans-serif;
-  border-bottom: 1px dashed red;
-  margin-bottom: 1em;
-}
-
 button{
   width: 10em;
 }
 
 .btn{
   font-family: 'Varela', sans-serif;
+}
+
+#canDo{
+  font-size: 6em;
+  font-family: 'Varela', sans-serif;
+  border-bottom: 1px dashed red;
+  margin-bottom: 1em;
 }
