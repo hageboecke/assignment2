@@ -3,7 +3,7 @@ h1, nav{
 }
 
 .bg{
-  background-color: #8D99AE;
+  background-color: #EDF2F4;
 }
 
 .hd{
@@ -17,13 +17,14 @@ p{
 #canDo{
   font-size: 6em;
   font-family: 'Varela', sans-serif;
-  text-decoration-line: underline;
-  text-decoration-color: red;
-  text-decoration-style: dashed;
+  border-bottom: 1px dashed red;
   margin-bottom: 1em;
 }
 
 button{
   width: 10em;
+}
+
+.btn{
   font-family: 'Varela', sans-serif;
 }
